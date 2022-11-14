@@ -5,7 +5,7 @@ Un poco sobre mi:
 
 - 📚 Estoy cursando el 3er año de la carrera ingeniería en sistemas de información.
 - 👨‍💻👥 Me gusta trabajar en equipo y realizar proyectos de forma conjunta.
-- 🏴🐘⚽ Amo las banderas, la naturaleza y los deportes.
+- 🏴🐘⚽ Fan de las banderas, la naturaleza y los deportes.
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
