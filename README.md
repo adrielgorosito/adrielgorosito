@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 👋</h1>
-<h3 align="center">Future systems engineering and full stack developer</h3>
+<h3 align="center">Future systems engineer and full stack developer 👨‍💻</h3>
 
 I'm a dedicated developer driven by a passion to overcome challenges and perpetually seek opportunities to gain new knowledge and expand my skills. I like to face problems with determination and with an energetic approach.
 I'm currently studying the last year of my systems engineering degree.
@@ -10,13 +10,14 @@ A little bit about me:
 - 🤝 Sharing knowledge is a key part of my professional career. I am passionate about mentoring and educating others in the development community, while still being open to valuable insights and learning experiences from other people.
 - 🏴 I like flags.
 
-Here is my [LinkedIn](https://www.linkedin.com/in/adriel-gorosito). Feel free to contact me!
+✉️ Here is my [LinkedIn](https://www.linkedin.com/in/adriel-gorosito). Feel free to contact me!
 
 <br>
 
-<h3 align="left">Technologies and tools</h3>
+## 🛠️ Technologies and tools
+
 <p align ="left">
-  <img src ="https://img.shields.io/badge/☕︎Lang-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=291B3E"">
+  <img src ="https://img.shields.io/badge/Lang-Java-informational?style=for-the-badge&logo=openjdk&logoColor=white&color=291B3E"">
   <img src ="https://img.shields.io/badge/Lang-C%23-informational?style=for-the-badge&logo=Csharp&logoColor=white&color=291B3E">
   <img src ="https://img.shields.io/badge/Lang-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=291B3E">
   <img src ="https://img.shields.io/badge/Lang-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=291B3E">
@@ -42,6 +43,32 @@ Here is my [LinkedIn](https://www.linkedin.com/in/adriel-gorosito). Feel free to
   <img src ="https://img.shields.io/badge/OS-Microsoft-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=291B3E">
   <img src ="https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=291B3E">
 </p>
+
+<br>
+
+📊 Besides web development, I also have knowledge in data science (DS). I have worked with several software:
+
+<p>
+  <img src ="https://img.shields.io/badge/DS-SPSS Modeler-informational?style=for-the-badge&logo=ibm&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/DS-SPSS Statistics-informational?style=for-the-badge&logo=ibm&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/DS-RapidMiner Studio-informational?style=for-the-badge&logo=openbadges&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/DS-Excel-informational?style=for-the-badge&logo=microsoftexcel&logoColor=white&color=291B3E">
+</p>
+
+As well as with various Python libraries:
+
+<p>
+  <img src ="https://img.shields.io/badge/Libray-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Library-NumPy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Library-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=white&color=291B3E">
+  <img src="https://img.shields.io/badge/DS-scikit&#8209;learn-informational?style=for-the-badge&logo=scikitlearn&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Library-Matplotlib-informational?style=for-the-badge&logo=python&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Library-Seaborn-informational?style=for-the-badge&logo=python&logoColor=white&color=291B3E">
+</p>
+
+<br>
+
+## 🚀 My stats
 
 <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=adrielgorosito&theme=jolly&show_icons=true" />&emsp;&emsp;
