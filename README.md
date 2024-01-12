@@ -34,10 +34,15 @@ A little bit about me:
   <img src ="https://img.shields.io/badge/Database-SQL Server-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=291B3E">
 </p>
 <p>
-  <img src ="https://img.shields.io/badge/Editor-Visual Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=291B3E">
-  <img src ="https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=291B3E">
-  <img src ="https://img.shields.io/badge/Editor-Eclipse-informational?style=for-the-badge&logo=eclipseide&logoColor=white&color=291B3E">
-  <img src ="https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Tests-unittest-informational?style=for-the-badge&logo=python&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Tests-junit-informational?style=for-the-badge&logo=openjdk&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/Tests-xunit-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=291B3E">
+</p>
+<p>
+  <img src ="https://img.shields.io/badge/IDE-Visual Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/IDE-Visual Studio Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/IDE-Eclipse-informational?style=for-the-badge&logo=eclipseide&logoColor=white&color=291B3E">
+  <img src ="https://img.shields.io/badge/IDE-IntelliJ-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=291B3E">
 </p>
 <p>
   <img src ="https://img.shields.io/badge/OS-Microsoft-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=291B3E">
